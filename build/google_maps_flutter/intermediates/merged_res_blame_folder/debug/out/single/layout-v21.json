@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/argha/Argha_current_project/collectpay/build/google_maps_flutter/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/argha/.gradle/caches/transforms-2/files-2.1/7eee74559bfb6ea52a0d387ebdf90c55/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/argha/Argha_current_project/collectpay/build/google_maps_flutter/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/argha/.gradle/caches/transforms-2/files-2.1/7eee74559bfb6ea52a0d387ebdf90c55/core-1.6.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/argha/Argha_current_project/collectpay/build/google_maps_flutter/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/argha/.gradle/caches/transforms-2/files-2.1/7eee74559bfb6ea52a0d387ebdf90c55/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/argha/Argha_current_project/collectpay/build/google_maps_flutter/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/argha/.gradle/caches/transforms-2/files-2.1/7eee74559bfb6ea52a0d387ebdf90c55/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

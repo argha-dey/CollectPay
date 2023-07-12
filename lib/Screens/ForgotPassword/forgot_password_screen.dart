@@ -1,0 +1,14 @@
+
+import 'package:collectpay/Screens/ForgotPassword/forgot_body.dart';
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+
+class ForgotPassword extends StatelessWidget {
+
+@override
+Widget build(BuildContext context) {
+  return Scaffold(
+    body: Body(),
+  );
+}
+}
